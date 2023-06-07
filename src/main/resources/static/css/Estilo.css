@@ -1,0 +1,71 @@
+.Titulo_Inicio{
+    
+    color: darkslategray;
+    font-size: 40px;
+    font-family: Bradley Hand;
+    text-align: Center;
+    
+}
+
+.Fondo_Inicio{
+    
+    background-color: wheat;   
+    background-position: 0 0 ;
+    
+}
+
+.Fondo2_Inicio{
+    
+    background-color: lightslategrey;   
+    background-position: 0 0 ;
+    
+}
+
+.Titulo2_Inicio{
+    
+    color: aqua;
+    font-size: 50px;
+    font-family: Bradley Hand;
+    text-align: Center;
+    
+}
+
+.Imagenes_Inicio{
+    
+    
+    
+}
+
+a:hover {
+    
+    color: white;
+    background-color: dimgray;
+    font-size: 20px;
+    transition: 0.09s;
+    
+}
+
+a:active{
+    
+    color: white;
+    background-color: dimgray;
+    
+}
+
+.text_estilo{
+    
+    font-size: 17px; 
+    font-family: Comic Sans MS;
+    
+}
+
+img.alineadoTextoImagenCentro{
+  vertical-align: middle;
+}
+
+.login{
+    
+    font-size: 21px;
+    font-family: Bradley Hand; 
+    
+}
